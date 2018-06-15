@@ -98,7 +98,7 @@ Belief looses to facts every time.
 Books, videos and podcasts on work related topics which I recommend:
 
 - [reading](reading-list.md)
-- [videos](videos-list.md)
+- [videos](video-list.md)
 - [podcasts/audio](audio-list.md)
 
 ## Finally
